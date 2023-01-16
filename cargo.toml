@@ -1,0 +1,31 @@
+[package]
+name = "aoc"
+version = "0.1.0"
+
+[[bin]]
+name = "2022_day_1"
+path = "2022/day_1.rs"
+
+[[bin]]
+name = "2022_day_2"
+path = "2022/day_2.rs"
+
+[[bin]]
+name = "2022_day_3"
+path = "2022/day_3.rs"
+
+[[bin]]
+name = "2022_day_4"
+path = "2022/day_4.rs"
+
+[[bin]]
+name = "2022_day_5"
+path = "2022/day_5.rs"
+
+[[bin]]
+name = "2022_day_6"
+path = "2022/day_6.rs"
+
+[[bin]]
+name = "2022_day_7"
+path = "2022/day_7.rs"
